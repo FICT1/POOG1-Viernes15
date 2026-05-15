@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Ordenacion3;
 
 public class Ejercicio3 {
 }
